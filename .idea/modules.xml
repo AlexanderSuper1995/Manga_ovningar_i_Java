@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Manga ovningar i Java.iml" filepath="$PROJECT_DIR$/Manga ovningar i Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/del2/del2.iml" filepath="$PROJECT_DIR$/del2/del2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/del3/del3.iml" filepath="$PROJECT_DIR$/del3/del3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/del4/del4.iml" filepath="$PROJECT_DIR$/del4/del4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/del5/del5.iml" filepath="$PROJECT_DIR$/del5/del5.iml" />
     </modules>
   </component>
 </project>

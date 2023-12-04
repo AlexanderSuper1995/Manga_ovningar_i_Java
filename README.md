@@ -1,4 +1,4 @@
-# Manga_ovningar_i_Java
+# Många_övningar_i_Java
 Små uppgifter i Java
 1. Skapa ett program som skriver ut kvadraten på ett tal som läses in. Kvadrat är talet
 multiplicerat med sig själv.
@@ -23,31 +23,41 @@ skall beräknas och skrivas ut. (pi = 3.14).
 Skapa ett program där en temperatur i Fahrenheit läses in och motsvarande temperatur
 i Celsius skrivs ut.
 Val/Alternativ
+
 11.Skapa ett program där två tal läses in och det första talet skrivs ut om det är störst.
 12.Läs in två tal. Testa om det första talet är mer än dubbelt så stort som det andra talet. I så
 fall ska meddelandet “För stort“ skrivas ut.
+
 13.Skapa ett program som läser in ett tal och skriver ut om det är jämnt. (Använd
 modulooperatorn)
+
 14.Skapa ett program som läser in ett tal och skriver ut om det är udda eller jämnt.
 15.Skapa ett program som läser in två tal och avgör och skriver ut om det första talet är jämnt
 delbart med det andra talet.
+
 16.En firma erbjuder sina kunder 10 procents rabatt om man vid ett inköpstillfälle handlar för
 minst 1000 kr. Antag för enkelhetens skull att man bara handlar varor av ett visst slag. Skapa ett
 program som beräknar vad en kund ska betala. Indata till algoritmen ska vara antalet
 köpta enheter och priset per enhet.
+
 17.Skapa ett program som läser in två tal och dividerar det första talet med det andra talet. Om
 det andra talet (nämnaren) är 0 ska ett felmeddelande ges, annars ska kvoten skrivas ut.
 18.Skapa ett program där värden på variablerna X och Y läses in. Tilldela variabel A
 värdet 2 om X är större än 5 + Y, annars tilldela A värdet 5. Skriv ut variabeln A.
+
 19.En anställd som har timlön får, när arbetstiden överstiger 40 tim en vecka,
 övertidsbetalning för tiden utöver 40 tim med 1½ tim. Skapa ett program som läser in
 en anställds timlön och en veckas arbetstid. Den totala veckolönen ska beräknas och
 skrivas ut.
+
 20.Skapa ett program som läser in ett tal. Om talet är mellan 0 och 9 ska kvadraten på talet
 skrivas ut. Annars ska lämpligt felmeddelande ges.
+
 21.Skapa ett program som testar om ett tal är mindre än -10 eller större än +10. I så fall ska ett
 lämpligt meddelande ges.
+
 22.Skapa ett program som testar om ett tal är 0-9 men inte 5. Skriv ut lämplig text.
+
 23.Skapa ett program som testar om ett inläst tal är jämnt delbart med 3 men inte med 30. I
 så fall ska talet divideras med 3.
 24.Skapa ett program som läser in kroppstemperaturen och skriver ut ett lämpligt meddelande
@@ -67,19 +77,26 @@ tidpunkt i timma och minut för avgången (t ex 12 41)
 körtid i timma och minut (t ex 3 47)
 I utmatningsrutan ska klockslaget för ankomsttiden skrivas. Om midnatt passeras ska det
 även skrivas “NÄSTA DAG“ i utmatningsrutan.
+
 30.Läs in ett tal. Skriv ut om talet är mindre än 10, mindre än 100 eller större än 100.
 Repetition/Iteration
+
 31.Skapa ett program som läser in ett antal tal och skriver ut dem. Talföljdens slut
 markeras med 0.
 32.Skapa ett program där talen 2, 4, 6, …, 100 skrivs ut.
+
 33.Skriv ut talen 100 till 0, dvs 100, 99, 98, …, 0.
+
 34.Skapa ett program som läser in och skriver ut ett tecken i taget tills en * skrivs in.
+
 35.Skapa ett program som beräknar och skriver ut kvadraterna för talen 1 till 9.
+
 36.Skapa ett program som räknar ut hur mycket man har på banken under vart och ett av de
 följande 10 åren om man sätter in 1000 kr. Räntan ska läsas in och är densamma för alla
 åren.
 37.Skapa ett program som läser in hur många tal användaren vill ange. Algoritmen ska sedan
 läsa in detta antal tal och skriva ut dem.
+
 38.En kommun har gjort följande prognos för befolkningsutvecklingen de närmaste åren: -
 Vid början av 2016 hade kommunen 26000 invånare.
 - Antalet födda och avlidna under ett år uppskattas var 0.7 % resp 0.6 % av
@@ -87,7 +104,8 @@ befolkningen vid årets början.
 - Antalet inflyttade och antalet utflyttade uppskattas till 300 resp 325 varje år.
 Skapa ett program som beräknar kommunens uppskattade invånarantal i början av ett visst
 år. Vilket år det gäller ska läsas in som indata till algoritmen.
-39.Skapa ett program som läser in ett pris exkl moms och skriver ut priset inkl 25 % moms.
+
+- 39.Skapa ett program som läser in ett pris exkl moms och skriver ut priset inkl 25 % moms.
 Inläsningen ska pågå tills 0 anges.
 40.Skapa ett program som beräknar och skriver ut svaret för funktionen :
 f (x)= 3x
