@@ -2,85 +2,101 @@
 Små uppgifter i Java
 1. Skapa ett program som skriver ut kvadraten på ett tal som läses in. Kvadrat är talet
 multiplicerat med sig själv.
+# är klar
 2. En försäljare har delvis prestationslön. Han får 8000 kr per månad i grundlön och 9% av
 försäljningssumman. Skapa ett program som beräknar lönesumman under en period.
 Försäljningssumman ska läsas in.
+# är klar
 3. Skapa ett program som läser in antal timmar, beräknar och skriver ut hur mycket det
 blir omvandlat till minuter resp sekunder.
+# är klar
 4. Skapa ett program som läser in tre tal och beräknar och skriver ut summan samt medelvärdet
 av de tre talen.
+# är klar
 5. Läs in ett heltal motsvarande svenska kronor och skriv ut motsvarande värde i pund
 respektive dollar. Antag att kursen är : 1 dollar = 6 kr, 1 pund = 10 kr.
-6. Skapa ett program som beräknar funktionen ax3 + 7 och skriver ut resultatet. Variablerna
+# är klar
+7. Skapa ett program som beräknar funktionen ax3 + 7 och skriver ut resultatet. Variablerna
 a och x ska läsas in.
+# är klar
 7. Skapa ett program som beräknar vad du ska betala för en tank bensin. Indata är antal
 liter, pris per liter och eventuell rabatt i procent. Utdata är priset som du ska betala
 8. Skapa ett program som beräknar och skriver ut arean och omkretsen av en rektangel.
 Rektangelns sidor ska läsas in.
+# är klar
 9. Skapa ett program där en cirkels radie läses in. Cirkelns diameter, omkrets och area
 skall beräknas och skrivas ut. (pi = 3.14).
 10.Sambandet mellan Fahrenheit och Celsius grader ges av formeln F=9C / 5 + 32.
 Skapa ett program där en temperatur i Fahrenheit läses in och motsvarande temperatur
 i Celsius skrivs ut.
 Val/Alternativ
-
+# är klar
 11.Skapa ett program där två tal läses in och det första talet skrivs ut om det är störst.
+# är klar
 12.Läs in två tal. Testa om det första talet är mer än dubbelt så stort som det andra talet. I så
 fall ska meddelandet “För stort“ skrivas ut.
-
+# är klar
 13.Skapa ett program som läser in ett tal och skriver ut om det är jämnt. (Använd
 modulooperatorn)
-
+# är klar
 14.Skapa ett program som läser in ett tal och skriver ut om det är udda eller jämnt.
+# är klar
 15.Skapa ett program som läser in två tal och avgör och skriver ut om det första talet är jämnt
 delbart med det andra talet.
-
+# är klar
 16.En firma erbjuder sina kunder 10 procents rabatt om man vid ett inköpstillfälle handlar för
 minst 1000 kr. Antag för enkelhetens skull att man bara handlar varor av ett visst slag. Skapa ett
 program som beräknar vad en kund ska betala. Indata till algoritmen ska vara antalet
 köpta enheter och priset per enhet.
-
+# är klar
 17.Skapa ett program som läser in två tal och dividerar det första talet med det andra talet. Om
 det andra talet (nämnaren) är 0 ska ett felmeddelande ges, annars ska kvoten skrivas ut.
 18.Skapa ett program där värden på variablerna X och Y läses in. Tilldela variabel A
 värdet 2 om X är större än 5 + Y, annars tilldela A värdet 5. Skriv ut variabeln A.
-
+# är klar
 19.En anställd som har timlön får, när arbetstiden överstiger 40 tim en vecka,
 övertidsbetalning för tiden utöver 40 tim med 1½ tim. Skapa ett program som läser in
 en anställds timlön och en veckas arbetstid. Den totala veckolönen ska beräknas och
 skrivas ut.
-
+# är klar
 20.Skapa ett program som läser in ett tal. Om talet är mellan 0 och 9 ska kvadraten på talet
 skrivas ut. Annars ska lämpligt felmeddelande ges.
-
+# är klar
 21.Skapa ett program som testar om ett tal är mindre än -10 eller större än +10. I så fall ska ett
 lämpligt meddelande ges.
-
+# är klar
 22.Skapa ett program som testar om ett tal är 0-9 men inte 5. Skriv ut lämplig text.
-
+# är klar
 23.Skapa ett program som testar om ett inläst tal är jämnt delbart med 3 men inte med 30. I
 så fall ska talet divideras med 3.
+# är klar
 24.Skapa ett program som läser in kroppstemperaturen och skriver ut ett lämpligt meddelande
 om temperaturen är mindre än 35 grader eller större än 42 grader.
 25.Skapa ett program där ett tal läses in och det skrivs ut om talet är positivt eller
 negativt.
+# är klar
 26.Skapa ett program som läser in två tal och skriver ut det största talet följt av orden “är störst
 “. Om talen är lika ska “Talen är lika“ skrivas ut.
+# är klar
 27.Skapa ett program som läser in tre tal och avgör vilket tal som är minst. Resultatet ska
 skrivas ut.
+# är klar
 28.Skapa ett program som läser in en temperatur. Om temperaturen är mellan 18 och
+# är klar
 25 grader ska meddelandet “Lagom temp“ skrivas ut. Om det är varmare än 25grader ska
 “För varmt“ skrivas ut och om det är kallare än 18grader ska “För kallt“ skrivas ut.
+# är klar
 29.Skapa ett program som beräknar ankomsttiden för ett tåg. I inmatningsrutan finns
 följande:
 tidpunkt i timma och minut för avgången (t ex 12 41)
 körtid i timma och minut (t ex 3 47)
+# är klar
 I utmatningsrutan ska klockslaget för ankomsttiden skrivas. Om midnatt passeras ska det
 även skrivas “NÄSTA DAG“ i utmatningsrutan.
 
 30.Läs in ett tal. Skriv ut om talet är mindre än 10, mindre än 100 eller större än 100.
 Repetition/Iteration
-
+# är klar
 31.Skapa ett program som läser in ett antal tal och skriver ut dem. Talföljdens slut
 markeras med 0.
 32.Skapa ett program där talen 2, 4, 6, …, 100 skrivs ut.
